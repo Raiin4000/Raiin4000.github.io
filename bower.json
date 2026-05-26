@@ -1,0 +1,13 @@
+{
+    "name": "SLA",
+    "version": "0.0.1",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
